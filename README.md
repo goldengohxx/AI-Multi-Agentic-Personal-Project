@@ -1,0 +1,1 @@
+This research presents an autonomous multi-agent optimization framework developed in Python and integrated with DWSIM. The system dynamically modulates heat exchanger utility flows—functioning as a supervisory control layer above traditional PID loops—to maximize thermal recovery and mitigate Scope 1 combustion emissions within a refinery crude oil preheat train.
